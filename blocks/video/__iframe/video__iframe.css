@@ -1,6 +1,5 @@
 .video__iframe {
   border: 0;
-  position: relative;
-  top: 50px;
-  z-index: 1;
+  width: 515px;
+  height: 316px;
 }
